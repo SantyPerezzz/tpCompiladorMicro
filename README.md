@@ -1,7 +1,7 @@
 # tpCompiladorMicro
 
-TP Compilador Micro en C
-Grupo 33
+##TP Compilador Micro en C
+##Grupo 33
 
 Integrantes:
 - Perez, Santiago Agustín
